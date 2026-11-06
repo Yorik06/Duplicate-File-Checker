@@ -1,3 +1,5 @@
+CREATED WITH AI
+
 # Duplicate File Checker
 
 A small Windows desktop tool that finds files with identical content in a folder
